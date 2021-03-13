@@ -1,4 +1,6 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tech-Nayuta)](https://github.com/Tech-Nayuta/github-readme-stats)
+
 
 <!--
 **Tech-Nayuta/Tech-Nayuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
